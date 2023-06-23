@@ -1,0 +1,79 @@
+"Attack on Titan":
+{
+"title": "Attack on Titan",
+"genre": "Acción, Drama, Fantasía",
+"episodes": 75,
+"releaseYear": 2013
+}
+
+"Death Note":
+{
+"title": "Death Note",
+"genre": "Misterio, Psicológico, Sobrenatural",
+"episodes": 37,
+"releaseYear": 2006
+}
+
+"Naruto":
+{
+"title": "Naruto",
+"genre": "Acción, Aventura, Comedia",
+"episodes": 220,
+"releaseYear": 2002
+}
+
+"Dragon Ball Z":
+{
+"title": "Dragon Ball Z",
+"genre": "Acción, Aventura, Fantasía",
+"episodes": 291,
+"releaseYear": 1989
+}
+
+"One Piece":
+{
+"title": "One Piece",
+"genre": "Acción, Aventura, Comedia",
+"episodes": 1000,
+"releaseYear": 1999
+}
+
+"Fullmetal Alchemist: Brotherhood":
+{
+"title": "Fullmetal Alchemist: Brotherhood",
+"genre": "Acción, Aventura, Drama",
+"episodes": 64,
+"releaseYear": 2009
+}
+
+"Cowboy Bebop":
+{
+"title": "Cowboy Bebop",
+"genre": "Acción, Aventura, Ciencia Ficción",
+"episodes": 26,
+"releaseYear": 1998
+}
+
+"Neon Genesis Evangelion":
+{
+"title": "Neon Genesis Evangelion",
+"genre": "Drama, Mecha, Psicológico",
+"episodes": 26,
+"releaseYear": 1995
+}
+
+"Hunter x Hunter":
+{
+"title": "Hunter x Hunter",
+"genre": "Acción, Aventura, Fantasía",
+"episodes": 148,
+"releaseYear": 2011
+}
+
+"Steins;Gate":
+{
+"title": "Steins;Gate",
+"genre": "Ciencia Ficción, Drama, Thriller",
+"episodes": 24,
+"releaseYear": 2011
+}
